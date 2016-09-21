@@ -1,6 +1,6 @@
-## Slide 1
+# Slide 1 Header Text
 
-![](https://media0.giphy.com/media/rncdcDDHCQaWI/200w.gif)
+![Image Caption Here](https://media0.giphy.com/media/rncdcDDHCQaWI/200w.gif)
 
 * Bullet list
 * item 2
@@ -10,11 +10,12 @@ Make sure **all** (bold text surrounded by `** **`)
 
 *italics* (using one `* *` on either side of content)
 
-Note: 
+???
+Notes for the slide will go here. 
 
 ---
 
-## Slide 2
+# Slide 2 Header Text
 
 1. Numbered list item 1
 2. Nubered list item 2
